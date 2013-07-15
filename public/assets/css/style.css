@@ -1,0 +1,58 @@
+/*robot theme: 3E6972, 78BCC9, D65E2C, 47774D*/
+
+h3 {
+  color: #3E6972;
+}
+
+h2 {
+	color: #D65E2C;
+}
+
+#icon-unicorn
+	{
+		float: right;
+	}
+img
+	{
+    max-width: 100%;
+		padding-bottom: 20px;
+	}
+#dom
+	{
+		height: 340px;
+		width: 240px;
+		float: right;
+	}
+.nav-list a {
+	color: #3E6972;
+}
+.span9 a {
+  color: #3E6972;
+  text-shadow: 0.1em 0.05em #333;
+}
+.nav-header {
+  display: block;
+  padding: 3px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #47774D;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+}
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.hero-unit {
+  padding: 60px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  color: #ffffff;
+  background-color: #78BCC9;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
