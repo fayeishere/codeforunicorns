@@ -31,6 +31,7 @@
               <li><a href="http://www.codeschool.com">Codeschool</a></li>
               <li><a href="http://www.lynda.com/18j">Lynda</a></li>
               <li><a href="https://www.udemy.com/courses/Technology">Udemy</a></li>
+              <li><a href="https://tutsplus.com/">Tuts+Premium</a></li>
               <li><a href="https://learnable.com/home">Learnable</a></li>
               <li><a href="https://shop.smashingmagazine.com/workshops/">Smashing Magazine Workshops</a></li>
               <li><a href="https://generalassemb.ly">General Assembly</a></li>
@@ -42,6 +43,7 @@
               <li><a href="http://readwrite.com/2008/05/28/15_places_to_find_great_screencasts#awesm=~o9ankBjUK164W0">ReadWrite list (older but good)</a></li>
               <li class="nav-header">Bootcamps</li>
               <li><a href="http://bootcamper.io/">Bootcamper</a></li>
+              <li><a href="http://www.bootcamps.in/">Bootcamps.in</a></li>
 <!--               <li class="nav-header">Events/Calendar</li>
               <li><a href="#">New York City</a></li>
               <li><a href="#">San Francisco</a></li>
