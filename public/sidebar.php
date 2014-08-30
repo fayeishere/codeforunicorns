@@ -1,4 +1,4 @@
-<div class="span3">
+<div class="sidebar">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">General</li>
@@ -7,7 +7,7 @@
               <li class="nav-header">Free</li>
 <!--               <li class="active"><a href="#">Link</a></li> -->
               <li><a href="http://www.codecademy.com">Codecademy</a></li>
-              <li><a href="http://www.learnstreet.com">Learn Street</a></li>
+<!--               <li><a href="http://www.learnstreet.com">Learn Street</a></li> -->
               <li><a href="http://www.codeschool.com">Codeschool</a></li>
               <li><a href="http://teamtreehouse.com">Treehouse</a></li>
               <li><a href="http://www.coursera.org">Coursera</a></li>
@@ -44,26 +44,7 @@
               <li class="nav-header">Bootcamps</li>
               <li><a href="http://bootcamper.io/">Bootcamper</a></li>
               <li><a href="http://www.bootcamps.in/">Bootcamps.in</a></li>
-<!--               <li class="nav-header">Events/Calendar</li>
-              <li><a href="#">New York City</a></li>
-              <li><a href="#">San Francisco</a></li>
-              <li><a href="#">Portland, Oregon</a></li> -->
-<!--               <li class="nav-header">Language Portal</li>
-              <li><a href="#">HTML/CSS</a></li>
-              <li><a href="#">JS</a></li>
-              <li><a href="#">Ruby</a></li>
-              <li><a href="#">Python</a></li>
-              <li><a href="#">PHP</a></li>
-              <li><a href="#">C++</a></li> -->
-<!--               <li class="nav-header">Other Tools</li>
-              <li><a href="#">Templates</a></li>
-              <li><a href="#">Plugins</a></li>
-              <li><a href="#">CMSs</a></li>
-              <li><a href="#">Boilerplates</a></li>
-              <li><a href="#">Hosting</a></li>
-              <li><a href="#">Domains</a></li>
-              <li><a href="#">Text Editors</a></li>
-              <li><a href="#">Read Stuff</a></li> -->
+
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
