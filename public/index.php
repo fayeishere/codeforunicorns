@@ -8,16 +8,17 @@
   <div class="container">
     <div id="side">
       <?php include('sidebar.php'); ?>
-      <img id="arrow" src="assets/img/rt-arrow.png">
     </div>
-    <div class="sixteen columns">
+    <div id="main" class="sixteen columns">
       <div id="top">
-        <h1 class="remove-bottom" style="margin-top: 40px">Welcome!</h1>
+        <h1 style="margin-top: 40px">Hello World!</h1>
         <h5>So You Want To Learn How To Code?</h5>
-        <h5>Here are some resources to help you become a web developer</h5>
-        <p id="reco"><img class="star" src="assets/img/star.png"> = My personal recommendations</p>
-        <p><img class="leaf" src="assets/img/leaf.png"> = In person format option</p>
-        <p>Got a favorite resource of your own? Email me codeforunicorns@gmail.com or tweet to me @fayeishere</p>
+        <h5>Here are some resources to help you become a web developer.</h5>
+
+        <p id="reco"><span><img class="star" src="assets/img/star.png"> = My personal recommendations</span>
+            <span style="margin-left: 5em;"><img class="leaf" src="assets/img/leaf.png"> = In person format option</span></p>
+
+        <p>Got a favorite resource of your own? Email me <strong>codeforunicorns@gmail.com</strong> or tweet to me <strong>@fayeishere</strong></p>
   <!--       <div id="essential">
           <h5>Essential Links</h5>
           <p><a href="https://github.com/">Github</a></p>
